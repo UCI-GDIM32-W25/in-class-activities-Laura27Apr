@@ -3,7 +3,7 @@
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
 
-## Week 1
+# Week 1
 
 ## Activity 1
 
