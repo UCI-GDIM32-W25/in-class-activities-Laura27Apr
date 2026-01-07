@@ -15,6 +15,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 	- Create map concepts 
 	- Make sure your itch links work for the love of god
 
+
 2.	- Q1: 10
 	- Q2: 2
 	- Q3: Print ¡°hello world¡± in the console every frame
