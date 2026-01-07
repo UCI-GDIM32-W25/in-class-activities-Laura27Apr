@@ -3,11 +3,17 @@
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
 
-Hit enter TWICE to create a new line.
+## Week 1
 
+1.	- Read the pre-learning slides
+	- Make notes
+	- Don¡¯t procrastinate
+	- Use out of class tools (YouTube / Unity documents)
+	- Take advantage of support when in need of assistance: peers, LAs, Office hours and discord
+	- Ask questions
+	- *Learn how to use the inspector
+	- Create map concepts 
+	- Make sure your itch links work for the love of god
 
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
+2.	Q1
 
-
-Remove all placeholder text in order to get full credit for README file formatting.
