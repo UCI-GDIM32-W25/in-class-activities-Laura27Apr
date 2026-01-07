@@ -5,7 +5,9 @@ Put each week's activities under new headers like the one shown above. Headers a
 
 ## Week 1
 
-1.	- Read the pre-learning slides
+## Activity 1
+
+	- Read the pre-learning slides
 	- Make notes
 	- Do not procrastinate
 	- Use out of class tools (YouTube / Unity documents)
@@ -15,7 +17,8 @@ Put each week's activities under new headers like the one shown above. Headers a
 	- Create map concepts 
 	- Make sure your itch links work for the love of god
 	
-2.	- Q1: 10
+## Activity 2
+	- Q1: 10
 	- Q2: 2
 	- Q3: Print ¡°hello world¡± in the console every frame
 	- Q4: MonoBehavior
@@ -24,7 +27,8 @@ Put each week's activities under new headers like the one shown above. Headers a
 	- Q7: The _playerTransform variable is instantiated but never used
 	- Q8: Transform.Translate should be replaced with _playerTransform.Translate
 
-3. [MG1Breakdown](https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?tab=t.0)
+## Activity 3
+[MG1Breakdown](https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?tab=t.0)
 
 
 
