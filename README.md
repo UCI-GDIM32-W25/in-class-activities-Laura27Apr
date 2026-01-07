@@ -3,9 +3,9 @@
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
 
-# Week 1
+## Week 1
 
-## Activity 1
+### Activity 1
 
 - Read the pre-learning slides
 - Make notes
@@ -17,7 +17,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 - Create map concepts 
 - Make sure your itch links work for the love of god
 	
-## Activity 2
+### Activity 2
 - Q1: 10
 - Q2: 2
 - Q3: Print ¡°hello world¡± in the console every frame
@@ -27,7 +27,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 - Q7: The _playerTransform variable is instantiated but never used
 - Q8: Transform.Translate should be replaced with _playerTransform.Translate
 
-## Activity 3
+### Activity 3
 [MG1Breakdown](https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?tab=t.0)
 
 
