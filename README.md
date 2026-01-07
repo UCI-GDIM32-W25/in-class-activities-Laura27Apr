@@ -25,5 +25,7 @@ Put each week's activities under new headers like the one shown above. Headers a
 	- Q7: The _playerTransform variable is instantiated but never used
 	- Q8: Transform.Translate should be replaced with _playerTransform.Translate
 
+3. [MG1Breakdown](https://docs.google.com/document/d/1hYNliasaT5HCwedvTw8yrg4QrNS10bXhExGOnQw6uGg/edit?tab=t.0)
+
 
 
