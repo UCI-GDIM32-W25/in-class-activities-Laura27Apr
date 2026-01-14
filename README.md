@@ -17,10 +17,10 @@
 ### Activity 2
 - Q1: 10
 - Q2: 2
-- Q3: Print ¡°hello world¡± in the console every frame
+- Q3: Print â€œhello worldâ€ in the console every frame
 - Q4: MonoBehavior
-- Q5: Print ¡°x = 10¡± in the console when the program starts
-- Q6: The ¡°(10)¡± is the integer assigned to show along with the text ¡°x = ¡± together that's why we need to use the ¡°+¡± sign to display ¡°x = 10¡±. (10) is an argument. (¡°x = 10¡± + x) is a parameter.
+- Q5: Print â€œx = 10â€ in the console when the program starts
+- Q6: The â€œ(10)â€ is the integer assigned to show along with the text â€œx = â€ together that's why we need to use the â€œ+â€ sign to display â€œx = 10â€. (10) is an argument. (â€œx = 10â€ + x) is a parameter.
 - Q7: The _playerTransform variable is instantiated but never used
 - Q8: Transform.Translate should be replaced with _playerTransform.Translate
 
@@ -31,7 +31,7 @@
 ## Week 2
 
 ### Activity 1
-
+<img width="2360" height="1640" alt="IMG_9924" src="https://github.com/user-attachments/assets/a92ddf09-5491-4b64-a953-e70ab07d34a1" />
 
 ### Activity 2
 
