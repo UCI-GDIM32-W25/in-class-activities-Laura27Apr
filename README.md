@@ -46,3 +46,4 @@ I have created "Player", "Coins","GameController" and "Ground" in the Unity. And
 Bilal Payton
 
 ### Activity 2
+<img width="2360" height="1640" alt="0120" src="https://github.com/user-attachments/assets/b502c931-bb11-4542-b7ba-839801888019" />
