@@ -40,3 +40,9 @@
 I have created "Player", "Coins","GameController" and "Ground" in the Unity. And I added Rigidbody2D and Capsule Collider 2D for player and coins, and I added Box Collider 2D for Ground. I also tagged each gameobjects. For coding, I created classes for them and I maded the Player jump successfully.
 
 
+## Week 3
+
+### Activity 1
+Bilal Payton
+
+### Activity 2
