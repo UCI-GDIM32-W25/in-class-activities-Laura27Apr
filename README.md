@@ -42,7 +42,7 @@ I have created "Player", "Coins","GameController" and "Ground" in the Unity. And
 
 ## Week 3
 
-### Activity 1
+### Activity 1 & 2
 Bilal Payton
 
-### Activity 2
+### Activity 3
