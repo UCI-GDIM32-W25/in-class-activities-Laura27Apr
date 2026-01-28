@@ -59,6 +59,7 @@ Bilal Payton, Alejandra Perez
 Only one Locator will work, and the other Locator on the other gameobjects will disappear. This is because Locator follows the Singleton design pattern.
 
 ### Activity 2
+<img width="2360" height="1640" alt="0127" src="https://github.com/user-attachments/assets/a9a28b3b-18b2-444c-b9e2-d28a53ae8b10" />
 
 
 ### Activity 3
