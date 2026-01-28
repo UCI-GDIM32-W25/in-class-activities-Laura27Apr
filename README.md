@@ -53,10 +53,10 @@ Bilal Payton
 ## Week 4
 
 ### Activity 0
-
+Bilal Payton, Alejandra Perez
 
 ### Activity 1
-
+Only one Locator will work, and the other Locator on the other gameobjects will disappear. This is because Locator follows the Singleton design pattern.
 
 ### Activity 2
 
