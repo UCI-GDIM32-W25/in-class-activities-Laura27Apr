@@ -62,4 +62,5 @@ Only one Locator will work, and the other Locator on the other gameobjects will 
 
 
 ### Activity 3
-
+[Commits](https://github.com/Laura27Apr/mg4/commits/main/)
+I have sliced the tiles and the birds. I also changed the camera orientation from free aspect to portrait (8:16 ratio). Moreover, I have created Player as a gameobject, and add capsule collider 2D, Rigidbody 2D, and Sprite Renderer.
