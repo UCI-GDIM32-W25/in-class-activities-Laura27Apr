@@ -48,3 +48,18 @@ Bilal Payton
 ### Activity 3
 <img width="2360" height="1640" alt="0120" src="https://github.com/user-attachments/assets/b502c931-bb11-4542-b7ba-839801888019" />
 
+
+
+## Week 4
+
+### Activity 0
+
+
+### Activity 1
+
+
+### Activity 2
+
+
+### Activity 3
+
