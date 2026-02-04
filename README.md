@@ -71,4 +71,37 @@ I have sliced the tiles and the birds. I also changed the camera orientation fro
 ## Week 5
 
 ### Activity 1
-I think the design of these interfaces and abstracts work well. In this situation, the abstract class Item makes all the things to experience "Use()" and at the same time the Interface is responsible for defining actions for those completely different but share some of the same features items. I think I would keep it the same because it is clear and organized.
+I think the design of these interfaces and abstracts work well. In this situation, the abstract class Item makes all the things to experience "Use()" and at the same time the Interface is responsible for defining the actions of items that are completely different but share some features.. I think I would keep it the same because it is clear and organized.
+
+
+### Activity 2
+In Demo2, EnemyStats and Item represent the Model; InventoryUI and Dialogue represent the View; and the Player and the Enemy represent the Controller.
+
+
+### Activity 3
+
+
+#### Scenario 1 Rhythm Game
+This game used:
+
+- ScriptableObjects: Different beats have different data.
+
+
+#### Scenario 2 Team Shooter
+This game used:
+
+- Model-View-Controller: The Model might be the data of characters and their skills; the View might be the animations and VFX of the different attacks and the UI; the Controller might be the player itself and the enemy.
+
+
+#### Scenario 3 Stardew Valley
+This game used:
+
+- Finite State Machine: Plants own different states.
+
+
+
+### Activity 4
+Attendance: Bilal Payton, Bella Sloan, Laura Liu
+
+[Final Project Proposal](https://docs.google.com/document/d/11w2xkRcvvsdrWrjTOsVOLnSm630WmjlCOwrMvn1rDKk/edit?usp=sharing)
+
