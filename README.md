@@ -65,3 +65,10 @@ Only one Locator will work, and the other Locator on the other gameobjects will 
 ### Activity 3
 [Commits](https://github.com/Laura27Apr/mg4/commits/main/)
 I have sliced the tiles and the birds. I also changed the camera orientation from free aspect to portrait (8:16 ratio). Moreover, I have created Player as a gameobject, and add capsule collider 2D, Rigidbody 2D, and Sprite Renderer.
+
+
+
+## Week 5
+
+### Activity 1
+I think the design of these interfaces and abstracts work well. In this situation, the abstract class Item makes all the things to experience "Use()" and at the same time the Interface is responsible for defining actions for those completely different but share some of the same features items. I think I would keep it the same because it is clear and organized.
