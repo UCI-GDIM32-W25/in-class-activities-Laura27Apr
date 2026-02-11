@@ -110,19 +110,19 @@ Attendance: Bilal Payton, Bella Sloan, Laura Liu
 
 ### Activity 1
 - Gizmos can be used to visualize invisible data in the scene window;
-- I think in our game we may use Gizmos a lot since we are going to have zombies to detect the range between the Player and themselves and then give reactions. Gizmos can help us to see the attack sphere clearly.
+	- I think in our game we may use Gizmos a lot since we are going to have zombies to detect the range between the Player and themselves and then give reactions. Gizmos can help us to see the attack sphere clearly.
 
 
 - Profiler can be used to analyze the causes of slow game performance;
-- I think we may use this to check our GPU and CPU when there is a battle between the zombies and the Player, since battle scene may consumes a lot of them.
+	- I think we may use this to check our GPU and CPU when there is a battle between the zombies and the Player, since battle scene may consumes a lot of them.
 
 
 - Breakpoints can let us to pause the game at specific lines of code;
-- I think we will use this to check whether the Player's action is delivered to the AudioController or not when the audio does not play but the action does go.
+	- I think we will use this to check whether the Player's action is delivered to the AudioController or not when the audio does not play but the action does go.
 
 
 - Merging is a good tool for mitigate conflicts when there is mutiple version of the game file or multiple people edition;
-- I think this is really a basic tool for us since this is a team project and we may have lots of the version. 
+	- I think this is really a basic tool for us since this is a team project and we may have lots of the version. 
 
 
 ### Activity 2
