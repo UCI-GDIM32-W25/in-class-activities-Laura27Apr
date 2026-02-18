@@ -154,6 +154,7 @@ Attendance: Bilal Payton, Bella Sloan, Laura Liu
 
 
 ### Activity 3
+![IMG_9946](https://github.com/user-attachments/assets/6314de67-147c-4a85-ab89-b979bb1a545a)
 
 
 ### Activity 4
