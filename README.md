@@ -157,6 +157,8 @@ Attendance: Bilal Payton, Bella Sloan, Laura Liu
 
 
 ### Activity 4
+[Tasks](https://trello.com/b/RdVdKvnk/gdim-32-final-project-the-goated)
 
 
 ### Activity 5
+[Commits](https://github.com/BilalPayton/The-Goated-GDIM32-Final/commits/main/)
