@@ -129,3 +129,34 @@ Attendance: Bilal Payton, Bella Sloan, Laura Liu
 Attendance: Bilal Payton, Bella Sloan, Laura Liu
 
 [Final Project Proposal](https://docs.google.com/document/d/11w2xkRcvvsdrWrjTOsVOLnSm630WmjlCOwrMvn1rDKk/edit?usp=sharing)
+
+
+## Week 7
+
+### Activity 1
+
+Raycast: 
+- Like firing an invisible laser beam from a point in a certain direction;
+- Line of sight
+	- Requires origin and direction
+- Obstacles Detection
+	- Sphere may be more suitable since there is situation which head can go over the obstacles but the body cannot
+- _raycastDir
+- _raycastStart (local)
+
+Gizmos:
+- We can use different color for different GameObjects
+- Gizmos.DrawRay
+- Gizmos.DrawWireSphere
+
+### Activity 2
+Attendance: Bilal Payton, Bella Sloan, Laura Liu
+
+
+### Activity 3
+
+
+### Activity 4
+
+
+### Activity 5
