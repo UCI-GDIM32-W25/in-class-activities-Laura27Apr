@@ -184,7 +184,7 @@ public class DuckW72 : MonoBehaviour
     {
         _hasLineOfSightToPlayer = false;
         RaycastHit hitInfo;
-        // fire a raycast pointing from the duck (_raycastStart) in the direction of the player (_raycastDir)
+        // fire a raycast (true or false) pointing from the duck (_raycastStart) in the direction of the player (_raycastDir)
         // and only going as far as _lineOfSightMaxDistance
         if(Physics.Raycast(_raycastStart, _raycastDir, out hitInfo, _lineOfSightMaxDistance, _lineOfSightLayers.value))
         {

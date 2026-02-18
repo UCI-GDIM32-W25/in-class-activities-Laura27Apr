@@ -162,3 +162,5 @@ Attendance: Bilal Payton, Bella Sloan, Laura Liu
 
 ### Activity 5
 [Commits](https://github.com/BilalPayton/The-Goated-GDIM32-Final/commits/main/)
+
+I have creates a GameController script and add GameState enum to track the game's current quest.
