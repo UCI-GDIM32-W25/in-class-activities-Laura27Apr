@@ -165,3 +165,45 @@ Attendance: Bilal Payton, Bella Sloan, Laura Liu
 [Commits](https://github.com/BilalPayton/The-Goated-GDIM32-Final/commits/main/)
 
 I have creates a GameController script and add GameState enum to track the game's current quest.
+
+
+## Week 8
+
+### Activity 1
+- Post-processing: shaders that affect the look of your screen, which you can use it to create certain and special visual effect you want in your games.
+	
+	- Add a new layer named PostProcessing
+	
+	- Add a Post-process Volume Component
+	
+	- Put the GameObject on the “PostProcessing” layer 
+	
+	- Check “Is Global”
+	
+	- Hit “New”
+
+
+### Activity 2
+Attendance: Bilal Payton, Bella Sloan, Laura Liu
+
+
+### Activity 3
+Playtesting Notes:
+
+- Fix character sliding issue
+
+- Mouse cursor sensitivity is too high, but like only on some people's laptops for some reason
+
+- Camera movement/player turning around is kinda janky and laggy --> missing Time.deltaTime so maybe that's the reason
+
+- Get cursor locked to screen
+
+
+### Activity 4
+Work on Interactable UI (player inventory)
+
+
+### Activity 5
+[Commits](https://github.com/BilalPayton/The-Goated-GDIM32-Final/commits/main/)
+
+I have created the Inventory UI which is similar to the Minecraft.
