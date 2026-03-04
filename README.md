@@ -207,3 +207,25 @@ Work on Interactable UI (player inventory)
 [Commits](https://github.com/BilalPayton/The-Goated-GDIM32-Final/commits/main/)
 
 I have created the Inventory UI which is similar to the Minecraft.
+
+
+## Week 9
+### Activity 1
+- Scaling is important since in the future we may create bigger games and collaborate with more people, this can help us organize the game better.
+
+
+	-  All the patterns can help us scales the system well.
+
+
+- Use DialogueController to control different NPCs' dialogue branches.
+
+### Activity 2
+Attendance: Bilal Payton, Bella Sloan, Laura Liu
+
+### Activity 3
+
+
+### Activity 4
+
+
+### Activity 5
