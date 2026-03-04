@@ -219,13 +219,29 @@ I have created the Inventory UI which is similar to the Minecraft.
 
 - Use DialogueController to control different NPCs' dialogue branches.
 
+
 ### Activity 2
 Attendance: Bilal Payton, Bella Sloan, Laura Liu
 
+
 ### Activity 3
+Playtesting Notes:
 
 
+- player spin around...lock the y rotation or smth on the player prefab (already fixed). 
+
+
+- Lower sensitivity (already fixed) - finish adding colliders to buildings (fixed)
+
+	
+- add some dialogue ui that tells the player how to move around. - add sprint feature
+
+- 
 ### Activity 4
+I think our actual progress aligns with how we are supposed to be since we have met the requirements for the check-in. We already have sripts for many of the elements we need in the game, and all that is left is to add them and adjust the inpector settings in Unity.
 
 
 ### Activity 5
+[Commits](https://github.com/BilalPayton/The-Goated-GDIM32-Final/commits/main/)
+
+I have set a timer for the Interactble UI and it will automatically disappeared after it shows the last tip.
