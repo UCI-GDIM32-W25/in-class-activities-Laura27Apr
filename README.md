@@ -236,7 +236,7 @@ Playtesting Notes:
 	
 - add some dialogue ui that tells the player how to move around. - add sprint feature
 
-- 
+ 
 ### Activity 4
 I think our actual progress aligns with how we are supposed to be since we have met the requirements for the check-in. We already have sripts for many of the elements we need in the game, and all that is left is to add them and adjust the inpector settings in Unity.
 
