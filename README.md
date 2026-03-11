@@ -245,3 +245,22 @@ I think our actual progress aligns with how we are supposed to be since we have 
 [Commits](https://github.com/BilalPayton/The-Goated-GDIM32-Final/commits/main/)
 
 I have set a timer for the Interactble UI and it will automatically disappeared after it shows the last tip.
+
+
+## Week 10
+### Activity 1
+Attendance: Bilal Payton, Bella Sloan, Laura Liu
+
+
+### Activity 2
+Playtest feedback: 
+default speed too slow, sprint too fast, view is a bit too dark, when you walk too far away from the buildings the ui just dissapears, mouse sensitivity still too high
+
+
+### Activity 3
+We do find something important but we forgot to do during the playtesting and the reviewing of the final project requirement, which make us kind of nervous. But I think we are on the right track since we already know how to add those things in our project.
+
+### Activity 4
+[Commits](https://github.com/BilalPayton/The-Goated-GDIM32-Final/commits/main/)
+
+I have added UI numbers of each slot in the in inventory and the interactable UI of the items.
